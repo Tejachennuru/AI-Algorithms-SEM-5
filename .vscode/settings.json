@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "chrono": "cpp",
+        "type_traits": "cpp"
+    },
+    "codeium.enableCodeLens": false
+}
